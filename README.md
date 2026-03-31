@@ -25,7 +25,4 @@
 ![医疗17](https://github.com/MaCa-BaKa/zhihuiyiliaopingtaiguanlixitong/assets/102128690/65edb66c-81ca-4236-91eb-44fc710dc240)
 ![医疗19](https://github.com/MaCa-BaKa/zhihuiyiliaopingtaiguanlixitong/assets/102128690/b18ef0d2-40db-4d69-9f78-9ae5dd2d7544)
 
-**
-
-# [文档地址](http://wechat.zjrcsy.cn/)
-**
+[文档地址](http://wechat.zjrcsy.cn/)
